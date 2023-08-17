@@ -11,7 +11,7 @@ apt install python
 pip install telethon
 
 
-git clone https://github.com/oldman-ios/spamTG.git
+git clone https://github.com/oldman-sa/spamTG.git
 cd spamTG
 python spam.py
 ```
